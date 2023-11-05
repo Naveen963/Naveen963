@@ -1,3 +1,4 @@
+![MasterHead](https://camo.githubusercontent.com/1f034ebfc52e5fdcc097e7b3c6c9100e1fd606f5a99af8ea35f1d3a936bbfdfa/687474703a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
@@ -52,3 +53,9 @@
   <br/><br/><br/>
 </div>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/naveen-kumar-79700a194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveen-kumar-79700a194/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_the_._.king._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_the_._.king._/" height="30" width="40" /></a>
+
+</p>
