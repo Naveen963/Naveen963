@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Next.js**
 
- 💬 Ask me about **Node.js, React, SQL... or anything [here](https://github.com/Naveen963/Naveen963/issues)**
+ 💬 Ask me about **Node.js,Vue,React,GraphQL SQL... or anything [here](https://github.com/Naveen963/Naveen963/issues)**
 
  ⚡ Interested to learn **AI,Data Science**
  
@@ -38,7 +38,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,vue,graphql,bootstrap,mui,html,css,github,tailwind,git" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,typescript,express,nextjs,mysql" /><br>
 </div>
 
