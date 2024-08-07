@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCreYX50oNBJwmS+Pf0D7j0rcOUlcJybEsd19EfUwwDxoUwvBcZCb6juaiASANtbl9pro7OdOZj2meaopeDuCUbOG6xf7CU6DUukZybalMSJwtZsvFawQMaM0q1FZCxRk82Im4IJrN8e7v4vzIvm0GUp1NJ1cJdnX6EpHh1n8QJvR/XP6SQx4pZ6B3RBCTCnm3Qk9IO5R2wkvnQp949Gns8LEwzcMo1qg1dvttkMxcb7Bm6P63bs0R2wfZqtdz24fb4gLC/Qkt6z6ttIbDjBnEdcL1dU4FpqY75hMNuORWOcLnhmLoXcOW2kMKVLYiwMa7wtokl22y9V+tImOog9/qptrSWh0Irf2Vn5F2aqqfPp6WNNLIlH+Y3n4TFBjTVPF6mMY+1WSAOSwS1Ld/G66SkI6bVOuF1k7KZzeLwJIG7hjOOpuI43QjVuQ6pdX/CYsPm62P/SCMog431Ic80zRD44pTfH30wNLRySzooQJaXHPwceUmKYH81CIwtrrg9m9gK6jqu+OCqRDpKOVeDXGO4GoLZFWVH3p+yioGrZ7aK4nNTDRSysAa0dZi3+0gFch2DzKl75YEtYCYiflVph3eV5uT/zVon/8fuFNMCaPSu9LQHQ3H2R9DTx4a25qGkLRIeD65XCRfljkcO7ATsYbFptbTyDECdw8NSWeKumuTUCw== naveenkumar200101@gmail.com
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naveen+Kumar+Chitturi!;" />
 </h1>
